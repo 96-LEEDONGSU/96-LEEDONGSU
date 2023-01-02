@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **96-LEEDONGSU/96-LEEDONGSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Lee Dongsu.:smiley:
+
+### 🌱 I'm currently learning..
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=flat&logo=&logoColor=white"/>
+
+### :book: Language
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<br/><br/><br/>
+<a href = "https://computa.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a> <a href = "https://www.youtube.com/channel/UCF49oLRYWs1gumtFeJP7jpQ"><img src="https://img.shields.io/badge/Personal-FF0000?style=flat&logo=YouTube&logoColor=red"/></a>
